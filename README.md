@@ -21,8 +21,10 @@ A Ruby script that colorizes the `ls` output with color and icons. Here are the 
 
 # Table of contents
 
-- [Usage](#usage)
-  - [Flags](#flags)
+- [About Me](#AboutMe)
+  - [Resume](#Resume)
+- [Coursework Examples](#projects) 
+  - [ArcGIS](#ArcGIS)
     - `-1`
     - `-a`   (or) `--all`
     - `-A`   (or) `--almost-all`
@@ -36,14 +38,9 @@ A Ruby script that colorizes the `ls` output with color and icons. Here are the 
     - `--sd` (or) `--sort-dirs` or `--group-directories-first`
     - `--sf` (or) `--sort-files`
     - `-t`
-  - [Combination of flags](#combination-of-flags)
-- [Installation](#installation)
-- [Recommended configurations](#recommended-configurations)
-- [Custom configurations](#custom-configurations)
-- [Updating](#updating)
-- [Uninstallation](#uninstallation)
-- [Contributing](#contributing)
-- [License](#license)
+  - [Google Earth Engine](#GoogleEarthEngine)
+  - [Story Maps](#StoryMaps)
+- [Flights of Fancy](#FlightsofFancy)
 
 # Usage
 
