@@ -42,13 +42,13 @@ A Ruby script that colorizes the `ls` output with color and icons. Here are the 
   - [Story Maps](#StoryMaps)
 - [Flights of Fancy](#FlightsofFancy)
 
-# Usage
+# AboutMe
 
 [(Back to top)](#table-of-contents)
 
 Man pages have been added. Checkout `man colorls`.
 
-### Flags
+### Projects
 
 - With `-1` : Lists one entry per line
 
