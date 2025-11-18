@@ -5,7 +5,8 @@ in Worcester Massachusetts. I am proficient in ArcGIS Pro, Google Earth Engine a
 Python and Javascript. I am interested in using GIS and remote sensing to understand wetland ecology and hydroecology. 
 https://github.com/bookergeorgetta-glitch/Portfolio/blob/main/PersonalProjects
 
-+ gi push [About Me] [README.md] on main 
++ gi push [About Me] [README.md] on main
++ <button class="bg-purple-darker border-t-2 rounded-full opacity-75 px-3 py-2 shadow-lg font-serif text-base font-medium text-white">Button text</button>
 
 # Color LS
 
