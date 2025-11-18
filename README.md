@@ -4,7 +4,9 @@ I am a Masters of Science Geographic Information Science student at Clark Univer
 in Worcester Massachusetts. I am proficient in ArcGIS Pro, Google Earth Engine and have basic experience with R Studio,
 Python and Javascript. I am interested in using GIS and remote sensing to understand wetland ecology and hydroecology. 
 <button class="bg-purple-darker border-t-2 rounded-full opacity-75 px-3 py-2 shadow-lg font-serif text-base font-medium text-white"><a href="https://github.com/bookergeorgetta-glitch/Portfolio/blob/main/PersonalProjects">Flights of Fancy</a>
-</button>
+<button class="bg-purple-darker border-t-2 rounded-full opacity-75 px-3 py-2 shadow-lg font-serif text-base font-medium text-white"><a href="https://github.com/bookergeorgetta-glitch/Portfolio/blob/main/PersonalProjects">Flights of Fancy</a>
+ <button class="bg-purple-darker border-t-2 rounded-full opacity-75 px-3 py-2 shadow-lg font-serif text-base font-medium text-white"><a href="https://github.com/bookergeorgetta-glitch/Portfolio/blob/main/PersonalProjects">Flights of Fancy</a>
+</button> <button class="bg-purple-darker border-t-2 rounded-full opacity-75 px-3 py-2 shadow-lg font-serif text-base font-medium text-white"><a href="https://github.com/bookergeorgetta-glitch/Portfolio/blob/main/PersonalProjects">Flights of Fancy</a>
 
 # Color LS
 
