@@ -3,7 +3,8 @@
 I am a Masters of Science Geographic Information Science student at Clark University, 
 in Worcester Massachusetts. I am proficient in ArcGIS Pro, Google Earth Engine and have basic experience with R Studio,
 Python and Javascript. I am interested in using GIS and remote sensing to understand wetland ecology and hydroecology. 
-$ git push [About Me] [README.md]
+
+ git push [About Me] [README.md] on main 
 
 # Color LS
 
