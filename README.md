@@ -7,7 +7,7 @@ https://github.com/bookergeorgetta-glitch/Portfolio/blob/main/PersonalProjects
 
 + gi push [About Me] [README.md] on main
 + <button class="bg-purple-darker border-t-2 rounded-full opacity-75 px-3 py-2 shadow-lg font-serif text-base font-medium text-white">Button text</button>
-
+[class]
 # Color LS
 
 [![forthebadge](http://forthebadge.com/images/badges/made-with-ruby.svg)](http://forthebadge.com)
