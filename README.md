@@ -21,7 +21,7 @@ A Ruby script that colorizes the `ls` output with color and icons. Here are the 
 
 # Table of contents
 
-- [About Me](#AboutMe)
+- [About Me](#AboutMe)(About Me)
   - [Resume](#Resume)
 - [Coursework Examples](#projects) 
   - [ArcGIS](#ArcGIS)
