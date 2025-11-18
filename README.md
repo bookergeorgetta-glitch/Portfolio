@@ -4,6 +4,7 @@ I am a Masters of Science Geographic Information Science student at Clark Univer
 in Worcester Massachusetts. I am proficient in ArcGIS Pro, Google Earth Engine and have basic experience with R Studio,
 Python and Javascript. I am interested in using GIS and remote sensing to understand wetland ecology and hydroecology. 
 
+
 + gi push [About Me] [README.md] on main 
 
 # Color LS
@@ -22,7 +23,7 @@ A Ruby script that colorizes the `ls` output with color and icons. Here are the 
 *If you're interested in knowing the powerlevel9k configuration to get this prompt, have a look at [this gist](https://gist.github.com/athityakumar/1bd5e9e24cd2a1891565573a893993eb).*
 
 # Table of contents
-
+-[Spotlight]{#Spotlight)
 - [About Me](#About Me)
   - [Resume](#Resume)
 - [Coursework Examples](#projects) 
